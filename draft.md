@@ -43,3 +43,5 @@ Squash to one commit per PR unless you make every commit meaningful (git rebase 
 
 pick (or p): use commit
 squash (or s): use commit, but meld into previous commit
+
+fine
