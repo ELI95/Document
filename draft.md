@@ -41,3 +41,13 @@ feature
 invoke
 provide
 outbound
+
+Branch: Generate branch on JIRA
+Commits:
+Make sure every commit contains card number
+Squash to one commit per PR unless you make every commit meaningful (git rebase -i)
+
+pick (or p): use commit
+reword (or r): use commit, but edit the commit message
+edit (or e): use commit, but stop for amending
+squash (or s): use commit, but meld into previous commit
