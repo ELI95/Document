@@ -1,11 +1,5 @@
-https://github.tesla.com/Factory-Software/fx-factory
-https://github.tesla.cn/ITApp/dots
-
 kafka
 unit test
-
-DTO (Data Transfer Object)
-
 
 - 开发
 包管理
@@ -48,6 +42,4 @@ Make sure every commit contains card number
 Squash to one commit per PR unless you make every commit meaningful (git rebase -i)
 
 pick (or p): use commit
-reword (or r): use commit, but edit the commit message
-edit (or e): use commit, but stop for amending
 squash (or s): use commit, but meld into previous commit
